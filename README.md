@@ -23,8 +23,12 @@ ai-lab/
 
 ---
 
+<!-- ## [Experiments & Exploration](https://github.com/cintia-shinoda/geosciences-lab/tree/main/experiments-&-exploration)
+| # |  |  | Status |
+|:---:|:---|:---|:---:| -->
 
-## Learning
+
+## [Learning](https://github.com/cintia-shinoda/geosciences-lab/tree/main/learning)
 
 | # | Type | Course / Book | Author | Status |
 |:---:|:---:|:---|:---|:---:|
@@ -32,6 +36,17 @@ ai-lab/
 | 02 | Course | [Fibra Ótica e Geoplano](https://github.com/cintia-shinoda/geosciences-lab/tree/main/learning/02-AEB-Fibra-Optica-e-Geoplano) | AEB (Agência Espacial Brasileira) | ![0%](https://geps.dev/progress/0) |
 | 03 | Course | [Geociências na Prática](https://github.com/cintia-shinoda/geosciences-lab/tree/main/learning/03-IBGE-Geociencias-Pratica) | IBGE | ![0%](https://geps.dev/progress/0) |
 | 04 | Course | [Sensoriamento Remoto](https://github.com/cintia-shinoda/geosciences-lab/tree/main/learning/04-AEB-Sensoriamento-Remoto) | AEB (Agência Espacial Brasileira) | ![0%](https://geps.dev/progress/0) |
+
+
+<!-- ## [Projects](https://github.com/cintia-shinoda/geosciences-lab/tree/main/projects)
+| # |  |  | Status |
+|:---:|:---|:---|:---:| -->
+
+
+<!-- ## [Resources & Papers](https://github.com/cintia-shinoda/geosciences-lab/tree/main/resources-&-papers)
+| # |  |  | Status |
+|:---:|:---|:---|:---:| -->
+
 
 <br>
 
