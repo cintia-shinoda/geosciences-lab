@@ -1,4 +1,4 @@
-# Geociências na Prática
+# IBGE - Geociências na Prática
 
 - Módulo 1 - Possibilidades de Estudo Após Gerar Dados Espaciais
 - Módulo 2 - Noções Básicas de Geoprocessamento e Cartografia

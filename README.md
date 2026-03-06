@@ -1,22 +1,45 @@
-## Geosciences Courses and Books
+# Geosciences Lab
+
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/cintia-shinoda/geo" alt="GitHub Last Commit" />
-  <img src="https://img.shields.io/github/forks/cintia-shinoda/geo" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/stars/cintia-shinoda/geo" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/cintia-shinoda/geosciences-lab" alt="GitHub Last Commit" />
+  <img src="https://img.shields.io/github/forks/cintia-shinoda/geosciences-lab" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/stars/cintia-shinoda/geosciences-lab" alt="GitHub Stars" />
 </p>
 
 
+```bash
+ai-lab/
+├─ experiments-&-exploration/
+├─ learning/
+├─ projects/
+├─ resources-&-papers/
+│
+├─ .gitignore
+├─ LICENSE
+└── README.md
+```
+<br>
+
+---
+
+
+## Learning
+
 | # | Type | Course / Book | Author | Status |
 |:---:|:---:|:---|:---|:---:|
-| 01 | Course | [Posicionamento GNSS: Fundamentos e aplicações](https://github.com/cintia-shinoda/geo/tree/main/01-Posicionamento-GNSS) | USP | ![0%](https://geps.dev/progress/0) |
-| 02 | Course | [Fibra Ótica e Geoplano](https://github.com/cintia-shinoda/geo/tree/main/02-Fibra-Optica-e-Geoplano) | AEB (Agência Espacial Brasileira) | ![0%](https://geps.dev/progress/0) |
-<!-- | 03 | Course | [Geociências na Prática](https://github.com/cintia-shinoda/geo/tree/main/03-Geociencias-Pratica) | IBGE | ![0%](https://geps.dev/progress/0) | -->
+| 01 | Course | [Posicionamento GNSS: Fundamentos e aplicações](https://github.com/cintia-shinoda/geosciences-lab/tree/main/learning/01-USP-Posicionamento-GNSS) | USP | ![0%](https://geps.dev/progress/0) |
+| 02 | Course | [Fibra Ótica e Geoplano](https://github.com/cintia-shinoda/geosciences-lab/tree/main/learning/02-AEB-Fibra-Optica-e-Geoplano) | AEB (Agência Espacial Brasileira) | ![0%](https://geps.dev/progress/0) |
+| 03 | Course | [Geociências na Prática](https://github.com/cintia-shinoda/geosciences-lab/tree/main/learning/03-IBGE-Geociencias-Pratica) | IBGE | ![0%](https://geps.dev/progress/0) |
+| 04 | Course | [Sensoriamento Remoto](https://github.com/cintia-shinoda/geosciences-lab/tree/main/learning/04-AEB-Sensoriamento-Remoto) | AEB (Agência Espacial Brasileira) | ![0%](https://geps.dev/progress/0) |
+
+<br>
 
 
 ---
 
-Copyright 2025 Cintia I. Shinoda
+
+Copyright 2025-2026 Cintia I. Shinoda
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
